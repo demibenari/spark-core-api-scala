@@ -1,4 +1,4 @@
-# spark-core-api-scala
+# spark-sense
 
 ## Example:
 ![example image](./images/readme-example.png)
